@@ -1,2 +1,2 @@
 # springdemo
-this is my first git spring demo
+This is my first git spring demo
